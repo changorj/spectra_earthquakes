@@ -42,3 +42,4 @@ Variables are defined as follow:
 - missfit = misfit values
 
 For more information, pleae contact me at: changorj@gmail.com
+LAST_UPDATE: April, 2016
