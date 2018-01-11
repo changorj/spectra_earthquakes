@@ -15,7 +15,7 @@ several steps:
 
 Main codes are: 'P_cauca.m' for P wave analysis and 'S_cauca.m' for S wave analysis. The rest of the codes are included within the folder and are called from the main code. 
 
-Variables are defined as follow:
+Dictionary:
 - xdatn, xdate, xdatv = structures with events information. The end of the variable indicates component: ’n’ = north component, ‘e’ = east component, ‘v’ = vertical component
 - ilocv, iloc = # of stations that recorded the event
 - evid = event id
